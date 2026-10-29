@@ -1,0 +1,1 @@
+{"name": "Pool Doppel – Billard", "short_name": "Pool Doppel", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#061813", "theme_color": "#103c30", "icons": [{"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
